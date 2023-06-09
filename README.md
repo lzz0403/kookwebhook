@@ -5,7 +5,7 @@
 ### 服务器一台、kook开发者平台
 ## 步骤1
 ### 登陆kook开发者平台，创建一个应用，找到侧边栏的“机器人”点击，会选择机器人连接方式，这里选择Webhook（注意：Webhook和Websocket两者只能选一者进行连接，不能同时连接），记住自己的Token和Verify Key（不要泄露！）
-### 请仔细阅读官方文档https://developer.kookapp.cn/doc/reference和https://developer.kookapp.cn/doc/webhook（肯定读不很懂）
+### 请仔细阅读官方文档https://developer.kookapp.cn/doc/reference和https://developer.kookapp.cn/doc/webhook （肯定读不很懂）
 ### 在有了一定的理解后，再看此教程会豁然开朗
 ## 步骤2
 ### 在你的服务器上搭建一个站点，并删除站点根目录所有文件，上传本开源库里的index.php文件
